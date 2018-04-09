@@ -8,6 +8,6 @@ use \Magento\Framework\Component\ComponentRegistrar;
 
 ComponentRegistrar::register(
     ComponentRegistrar::THEME,
-    'frontend/Magento/pwa_base',
+    'frontend/Magento/pwa',
     __DIR__
 );
