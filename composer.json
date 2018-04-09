@@ -2,7 +2,7 @@
     "name": "magento/theme-frontend-pwa",
     "description": "Required base theme for Magento PWAs",
     "require": {
-        "php": "~5.5.0|~5.6.0|~7.0.0",
+        "php": "~5.5.0|~5.6.0|~7.0.0|~7.1",
         "magento/framework": "100.0.*"
     },
     "type": "magento2-theme",

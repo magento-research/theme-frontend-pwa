@@ -1,4 +1,4 @@
-# pwa-base-theme
+# Magento PWA Base Theme
 
 Required base theme for Magento PWA Studio.
 
