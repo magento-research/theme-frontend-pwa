@@ -1,12 +1,12 @@
 {
-    "name": "magento/theme-frontend-pwa",
+    "name": "magento-research/theme-frontend-pwa",
     "description": "Required base theme for Magento PWAs",
+    "keywords": ["magento", "pwa", "magento2", "magento2-theme", "progressive", "reactjs"],
     "require": {
         "php": "~5.5.0|~5.6.0|~7.0.0|~7.1",
         "magento/framework": "100.0.*"
     },
     "type": "magento2-theme",
-    "version": "1.0.0",
     "license": [
         "OSL-3.0",
         "AFL-3.0"
