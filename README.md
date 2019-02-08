@@ -11,7 +11,7 @@ identify PWA-enabled themes.
 
 A Magento PWA Studio theme must use this theme, **Magento/pwa**, as its parent
 theme. This works just like current-state Magento themes do: declare the parent
-theme in `theme.xml`, and add a dependency `magento-research/theme-module-pwa`
+theme in `theme.xml`, and add a dependency `magento-research/theme-frontend-pwa`
 to your `composer.json` file. This theme is published on Packagist, so no
 license keys or additional Composer repository configurations are necessary.
 
